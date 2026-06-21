@@ -3,10 +3,10 @@ import { FaGithub, FaLinkedin, FaTwitter, FaGlobe } from "react-icons/fa";
 import { IoMdMail } from "react-icons/io";
 
 const SOCIAL_LINKS = [
-  { href: "https://github.com/celersneha", label: "GitHub", icon: FaGithub },
-  { href: "https://twitter.com/celersneha", label: "X", icon: FaTwitter },
+  { href: "https://github.com/cleosneha", label: "GitHub", icon: FaGithub },
+  { href: "https://twitter.com/cleosneha", label: "X", icon: FaTwitter },
   {
-    href: "https://linkedin.com/in/celersneha",
+    href: "https://linkedin.com/in/cleosneha",
     label: "LinkedIn",
     icon: FaLinkedin,
   },
@@ -58,7 +58,7 @@ export function Footer() {
               className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors duration-200"
             >
               <IoMdMail className="w-4 h-4 text-primary flex-shrink-0" />
-              <span className="text-sm">celersneha@gmail.com</span>
+              <span className="text-sm">cleosneha@gmail.com</span>
             </a>
           </div>
 

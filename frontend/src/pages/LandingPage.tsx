@@ -23,7 +23,7 @@ export default function LandingPage() {
             </Button>
             <Button asChild size="lg" variant="outline">
               <a
-                href="https://github.com/celersneha"
+                href="https://github.com/cleosneha"
                 target="_blank"
                 rel="noopener noreferrer"
               >
